@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: ede0ba7d4dc1b2644a60e693b5e1dbe8
+timeCreated: 1466984772
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MIDDLE_0
+    21300002: MIDDLE_1
+    21300004: MIDDLE_2
+    21300006: MIDDLE_3
+    21300008: MIDDLE_4
+    21300010: MIDDLE_5
+    21300012: MIDDLE_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MIDDLE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: 104.5}
+        - {x: -105.5, y: 49.5}
+        - {x: -38.5, y: -104.5}
+        - {x: 67.5, y: -104.5}
+        - {x: 105.5, y: -16.5}
+        - {x: 105.5, y: 68.5}
+        - {x: 18.5, y: 104.5}
+    - name: MIDDLE_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 340
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.939545, y: 99.73304}
+        - {x: -104.939545, y: 76.73304}
+        - {x: -104.939545, y: 11.73304}
+        - {x: -27.939545, y: -99.26696}
+        - {x: -16.939545, y: -99.26696}
+        - {x: -4.9395447, y: -90.26696}
+        - {x: 7.0604553, y: -75.26696}
+        - {x: 5.0604553, y: -55.26696}
+        - {x: 1.0604553, y: -50.26696}
+        - {x: 12.060455, y: -55.26696}
+        - {x: 8.060455, y: -86.26696}
+        - {x: 21.060455, y: -99.26696}
+        - {x: 51.060455, y: -99.26696}
+        - {x: 61.060455, y: -97.26696}
+        - {x: 106.060455, y: 13.73304}
+        - {x: 106.060455, y: 82.73304}
+        - {x: 55.060455, y: 99.73304}
+    - name: MIDDLE_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 340
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.2565918, y: -87}
+        - {x: 16.256592, y: -100}
+        - {x: 44.25659, y: -100}
+        - {x: 53.25659, y: -98}
+        - {x: 105.25659, y: -17}
+        - {x: 105.25659, y: 100}
+        - {x: -92.74341, y: 100}
+        - {x: -104.74341, y: 98}
+        - {x: -104.74341, y: 14}
+        - {x: -37.74341, y: -100}
+        - {x: -10.743408, y: -100}
+        - {x: 0.2565918, y: -93}
+        - {x: 4.256592, y: -70}
+        - {x: 3.2565918, y: -76}
+    - name: MIDDLE_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 344
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.0177, y: 104.5}
+        - {x: -106.0177, y: 94.5}
+        - {x: -106.0177, y: -24.5}
+        - {x: -62.0177, y: -104.5}
+        - {x: 45.9823, y: -104.5}
+        - {x: 107.9823, y: -74.5}
+        - {x: 107.9823, y: 104.5}
+    - name: MIDDLE_4
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2
+        width: 340
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.3583984, y: -46.26696}
+        - {x: 5.3583984, y: -45.26696}
+        - {x: 9.358398, y: -45.26696}
+        - {x: 2.3583984, y: -48.26696}
+        - {x: -2.6416016, y: -51.26696}
+        - {x: -10.641602, y: -60.26696}
+        - {x: -0.64160156, y: -91.26696}
+        - {x: 10.358398, y: -99.26696}
+        - {x: 49.3584, y: -99.26696}
+        - {x: 106.3584, y: -10.26696}
+        - {x: 106.3584, y: 99.73304}
+        - {x: -60.6416, y: 99.73304}
+        - {x: -104.6416, y: 92.73304}
+        - {x: -104.6416, y: -32.26696}
+        - {x: -79.6416, y: -99.26696}
+        - {x: -15.641602, y: -99.26696}
+        - {x: -9.641602, y: -85.26696}
+        - {x: -8.641602, y: -76.26696}
+        - {x: -13.641602, y: -56.26696}
+    - name: MIDDLE_5
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 0
+        width: 341
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.918823, y: -100}
+        - {x: 56.918823, y: -100}
+        - {x: 105.91882, y: 23}
+        - {x: 105.91882, y: 75}
+        - {x: 41.918823, y: 100}
+        - {x: -105.08118, y: 100}
+        - {x: -105.08118, y: -27}
+        - {x: -74.08118, y: -100}
+        - {x: -13.081177, y: -100}
+        - {x: -8.081177, y: -93}
+        - {x: -4.0811768, y: -85}
+        - {x: -3.0811768, y: -78}
+        - {x: -1.0811768, y: -89}
+    - name: MIDDLE_6
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 341
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.889404, y: 104.5}
+        - {x: -104.889404, y: 45.5}
+        - {x: -43.889404, y: -104.5}
+        - {x: 57.110596, y: -104.5}
+        - {x: 106.110596, y: -13.5}
+        - {x: 106.110596, y: 90.5}
+        - {x: 65.110596, y: 104.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

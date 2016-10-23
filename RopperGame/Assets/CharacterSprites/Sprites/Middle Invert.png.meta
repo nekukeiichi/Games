@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 54bce8a5040cd5348a113890df54ecce
+timeCreated: 1466700450
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Middle Invert_0
+    21300002: Middle Invert_1
+    21300004: Middle Invert_2
+    21300006: Middle Invert_3
+    21300008: Middle Invert_4
+    21300010: Middle Invert_5
+    21300012: Middle Invert_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Middle Invert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 342
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.5, y: 107.5}
+        - {x: 78.5, y: 101.5}
+        - {x: 28.5, y: 107.5}
+        - {x: -25.5, y: 107.5}
+        - {x: -108.5, y: 36.5}
+        - {x: -108.5, y: -96.5}
+        - {x: -81.5, y: -107.5}
+        - {x: 108.5, y: -107.5}
+        - {x: 108.5, y: 107.5}
+    - name: Middle Invert_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 356
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.6039581, y: -101}
+        - {x: 5.396042, y: -103}
+        - {x: 48.39604, y: -103}
+        - {x: 50.39604, y: -97}
+        - {x: 102.39604, y: -3}
+        - {x: 108.39604, y: 19}
+        - {x: 108.39604, y: 95}
+        - {x: 68.39604, y: 103}
+        - {x: -57.60396, y: 103}
+        - {x: -110.60396, y: 78}
+        - {x: -110.60396, y: 19}
+        - {x: -34.60396, y: -99}
+        - {x: -30.603958, y: -103}
+        - {x: -11.603958, y: -103}
+        - {x: -2.6039581, y: -99}
+        - {x: 2.3960419, y: -82}
+        - {x: 2.3960419, y: -71}
+        - {x: 3.3960419, y: -89}
+    - name: Middle Invert_2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2
+        width: 339
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.594055, y: 52.767326}
+        - {x: 96.594055, y: 50.767326}
+        - {x: 88.594055, y: 52.767326}
+        - {x: 42.594055, y: 102.76733}
+        - {x: -107.405945, y: 102.76733}
+        - {x: -107.405945, y: 16.767326}
+        - {x: -59.405945, y: -74.23267}
+        - {x: -1.4059448, y: -102.23267}
+        - {x: -0.40594482, y: -102.23267}
+        - {x: 9.594055, y: -84.23267}
+        - {x: 10.594055, y: -54.232674}
+        - {x: 10.594055, y: -86.23267}
+        - {x: 13.594055, y: -102.23267}
+        - {x: 74.594055, y: -102.23267}
+        - {x: 85.594055, y: -98.23267}
+        - {x: 108.594055, y: -11.232674}
+        - {x: 108.594055, y: 54.767326}
+    - name: Middle Invert_3
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 344
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.02472, y: 107.5}
+        - {x: -108.97528, y: 107.5}
+        - {x: -108.97528, y: -36.5}
+        - {x: -49.97528, y: -107.5}
+        - {x: 50.02472, y: -107.5}
+        - {x: 110.02472, y: -1.5}
+        - {x: 110.02472, y: 56.5}
+    - name: Middle Invert_4
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 0
+        width: 345
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1088867, y: -64}
+        - {x: -2.1088867, y: -73}
+        - {x: 3.8911133, y: -96}
+        - {x: 11.891113, y: -103}
+        - {x: 68.89111, y: -103}
+        - {x: 110.89111, y: -6}
+        - {x: 110.89111, y: 89}
+        - {x: 75.89111, y: 103}
+        - {x: -16.108887, y: 103}
+        - {x: -21.108887, y: 94}
+        - {x: -103.10889, y: 87}
+        - {x: -107.10889, y: 79}
+        - {x: -107.10889, y: 29}
+        - {x: -105.10889, y: 7}
+        - {x: -96.10889, y: 6}
+        - {x: -94.10889, y: 10}
+        - {x: -75.10889, y: 19}
+        - {x: -73.10889, y: 21}
+        - {x: -73.10889, y: 27}
+        - {x: -66.10889, y: 21}
+        - {x: -49.108887, y: -101}
+        - {x: -41.108887, y: -103}
+        - {x: -12.108887, y: -103}
+        - {x: -8.108887, y: -99}
+        - {x: -0.10888672, y: -88}
+        - {x: -0.10888672, y: -81}
+    - name: Middle Invert_5
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2
+        width: 340
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.68323, y: 102.76733}
+        - {x: -107.68323, y: 2.7673264}
+        - {x: -67.68323, y: -102.23267}
+        - {x: 50.316772, y: -102.23267}
+        - {x: 108.31677, y: -13.232674}
+        - {x: 108.31677, y: 102.76733}
+    - name: Middle Invert_6
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 0
+        width: 348
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.089111, y: 107.5}
+        - {x: -107.08911, y: 35.5}
+        - {x: -107.08911, y: -11.5}
+        - {x: -60.08911, y: -107.5}
+        - {x: 44.91089, y: -107.5}
+        - {x: 70.91089, y: -68.5}
+        - {x: 111.91089, y: 52.5}
+        - {x: 111.91089, y: 107.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

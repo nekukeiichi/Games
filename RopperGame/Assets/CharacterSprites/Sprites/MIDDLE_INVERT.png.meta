@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 5ca291f769e9c2243ac8f1c7c69e74ea
+timeCreated: 1466984806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MIDDLE_INVERT_0
+    21300002: MIDDLE_INVERT_1
+    21300004: MIDDLE_INVERT_2
+    21300006: MIDDLE_INVERT_3
+    21300008: MIDDLE_INVERT_4
+    21300010: MIDDLE_INVERT_5
+    21300012: MIDDLE_INVERT_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MIDDLE_INVERT_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 104.5}
+        - {x: -105.5, y: 58.5}
+        - {x: -105.5, y: -11.5}
+        - {x: -44.5, y: -104.5}
+        - {x: 50.5, y: -104.5}
+        - {x: 105.5, y: 10.5}
+        - {x: 105.5, y: 104.5}
+    - name: MIDDLE_INVERT_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 4
+        width: 340
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.24484, y: 99.96608}
+        - {x: -71.75516, y: 99.96608}
+        - {x: -104.75516, y: 89.96608}
+        - {x: -104.75516, y: -15.03392}
+        - {x: -98.75516, y: -35.03392}
+        - {x: -65.75516, y: -99.03392}
+        - {x: 15.244843, y: -99.03392}
+        - {x: 64.24484, y: -52.03392}
+        - {x: 105.24484, y: 36.96608}
+        - {x: 105.24484, y: 97.96608}
+    - name: MIDDLE_INVERT_2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 342
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.47491455, y: -87.5}
+        - {x: 8.474915, y: -99.5}
+        - {x: 9.474915, y: -100.5}
+        - {x: 55.474915, y: -100.5}
+        - {x: 106.474915, y: -14.5}
+        - {x: 106.474915, y: 85.5}
+        - {x: 46.474915, y: 100.5}
+        - {x: -52.525085, y: 100.5}
+        - {x: -105.525085, y: 72.5}
+        - {x: -105.525085, y: 31.5}
+        - {x: -97.525085, y: 4.5}
+        - {x: -91.525085, y: 5.5}
+        - {x: -55.525085, y: -100.5}
+        - {x: -13.525085, y: -100.5}
+        - {x: -1.5250854, y: -84.5}
+        - {x: -4.5250854, y: -69.5}
+    - name: MIDDLE_INVERT_3
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 342
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.265503, y: 99.5}
+        - {x: -15.265503, y: 96.5}
+        - {x: -42.265503, y: 104.5}
+        - {x: -104.2655, y: 104.5}
+        - {x: -104.2655, y: 29.5}
+        - {x: -71.2655, y: -104.5}
+        - {x: 51.734497, y: -104.5}
+        - {x: 106.7345, y: -11.5}
+        - {x: 106.7345, y: 57.5}
+        - {x: 20.734497, y: 97.5}
+    - name: MIDDLE_INVERT_4
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 4
+        width: 340
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.92334, y: 99.96608}
+        - {x: -103.92334, y: 12.96608}
+        - {x: -62.92334, y: -82.03392}
+        - {x: -3.9233398, y: -93.03392}
+        - {x: 9.07666, y: -84.03392}
+        - {x: 12.07666, y: -55.03392}
+        - {x: 11.07666, y: -88.03392}
+        - {x: 26.07666, y: -99.03392}
+        - {x: 59.07666, y: -99.03392}
+        - {x: 105.07666, y: -79.03392}
+        - {x: 105.07666, y: 99.96608}
+    - name: MIDDLE_INVERT_5
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 0
+        width: 342
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.129883, y: 100.5}
+        - {x: -99.12988, y: 68.5}
+        - {x: -103.12988, y: 57.5}
+        - {x: -103.12988, y: 32.5}
+        - {x: -32.129883, y: -97.5}
+        - {x: -23.129883, y: -100.5}
+        - {x: -3.1298828, y: -100.5}
+        - {x: 4.870117, y: -91.5}
+        - {x: 8.870117, y: -70.5}
+        - {x: 6.870117, y: -85.5}
+        - {x: 3.8701172, y: -100.5}
+        - {x: 83.87012, y: -100.5}
+        - {x: 106.87012, y: -84.5}
+        - {x: 106.87012, y: 100.5}
+    - name: MIDDLE_INVERT_6
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 0
+        width: 341
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.35547, y: 104.5}
+        - {x: -103.35547, y: 57.5}
+        - {x: -103.35547, y: -5.5}
+        - {x: -45.35547, y: -104.5}
+        - {x: 48.64453, y: -104.5}
+        - {x: 105.64453, y: 24.5}
+        - {x: 105.64453, y: 104.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

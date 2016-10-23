@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rope">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAABAAABAAAAAAAAAAAICACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\Rope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeLeaf">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIIAiAAAAAwAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tree Structure\TreeLeaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeComponent" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAQAAAAJgAADAEAAAAAAAAAAAAgAAAAAAAAACAAI=</HashCode>
+      <FileName>Assets\Scripts\Tree Structure\TreeComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeakRope">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\WeakRope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrongRope">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\StrongRope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeBranch">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAABAAABAAAAAAAAAAAAAAgAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\RopeBranch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeComposite">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAQAAAAIgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Tree Structure\TreeComposite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrongBranch">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\StrongBranch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeakBranch">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\WeakBranch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeTree">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAABAAAAAAAAAAAAAAgAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\RopeTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RopeEnum" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope_Scripts\RopeEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

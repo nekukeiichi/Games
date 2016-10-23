@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 352bd34223c4cfc48b693efcfe3e6776
+timeCreated: 1467047625
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Falling_0
+    21300002: Falling_1
+    21300004: Falling_2
+    21300006: Falling_3
+    21300008: Falling_4
+    21300010: Falling_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Falling_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 331
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.209717, y: 124.65379}
+        - {x: -124.79028, y: 124.65379}
+        - {x: -124.79028, y: 73.65379}
+        - {x: -57.790283, y: -7.3462067}
+        - {x: -66.79028, y: -124.34621}
+        - {x: 49.209717, y: -124.34621}
+        - {x: 57.209717, y: -112.34621}
+        - {x: 125.20972, y: -8.346207}
+        - {x: 125.20972, y: 62.653793}
+    - name: Falling_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 30
+        width: 311
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.964325, y: 123.10486}
+        - {x: 75.964325, y: 124.10486}
+        - {x: -117.035675, y: 124.10486}
+        - {x: -117.035675, y: -22.895142}
+        - {x: -87.035675, y: -122.89514}
+        - {x: -16.035675, y: -122.89514}
+        - {x: -5.035675, y: -113.89514}
+        - {x: 100.964325, y: -116.89514}
+        - {x: 117.964325, y: -100.89514}
+        - {x: 117.964325, y: 98.10486}
+    - name: Falling_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 40
+        width: 380
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.729553, y: 139.1398}
+        - {x: -12.270447, y: 139.1398}
+        - {x: -64.27045, y: 91.1398}
+        - {x: -139.27045, y: 30.139801}
+        - {x: -143.27045, y: 26.139801}
+        - {x: -143.27045, y: -6.860199}
+        - {x: -19.270447, y: -138.8602}
+        - {x: 58.729553, y: -138.8602}
+        - {x: 143.72955, y: -63.8602}
+        - {x: 143.72955, y: 4.139801}
+        - {x: 134.72955, y: 9.139801}
+    - name: Falling_3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 44
+        width: 314
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.632812, y: 119.15379}
+        - {x: 53.632812, y: 117.15379}
+        - {x: 1.6328125, y: 119.15379}
+        - {x: -98.36719, y: 119.15379}
+        - {x: -118.36719, y: 98.15379}
+        - {x: -118.36719, y: -72.84621}
+        - {x: -112.36719, y: -118.84621}
+        - {x: -29.367188, y: -118.84621}
+        - {x: 26.632812, y: -65.84621}
+        - {x: 119.63281, y: -87.84621}
+        - {x: 119.63281, y: 119.15379}
+    - name: Falling_4
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 11
+        width: 331
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.38928, y: 107.78845}
+        - {x: -13.610718, y: 130.78845}
+        - {x: -90.61072, y: 130.78845}
+        - {x: -124.61072, y: 5.788452}
+        - {x: -124.61072, y: -99.21155}
+        - {x: -48.610718, y: -130.21155}
+        - {x: 112.38928, y: -130.21155}
+        - {x: 125.38928, y: -34.211548}
+        - {x: 125.38928, y: 85.78845}
+        - {x: 120.38928, y: 95.78845}
+    - name: Falling_5
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 17
+        width: 380
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.94812, y: 140.80942}
+        - {x: -48.05188, y: 140.80942}
+        - {x: -143.05188, y: 29.809418}
+        - {x: -143.05188, y: -39.190582}
+        - {x: -54.05188, y: -139.19058}
+        - {x: 36.94812, y: -139.19058}
+        - {x: 73.94812, y: -104.19058}
+        - {x: 143.94812, y: -43.190582}
+        - {x: 143.94812, y: 54.809418}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
