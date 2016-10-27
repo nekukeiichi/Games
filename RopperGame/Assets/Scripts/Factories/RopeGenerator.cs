@@ -24,22 +24,37 @@ public class RopeGenerator
 
     public static bool SetFloorRopes(out Rope _left, out Rope _right)
     {
-        int rndNum = Random.Range(-(GetInstance().rndLimit-1), GetInstance().rndLimit);
+        int i = 0;
 
-        if(rndNum > 0)
+        //Starting
+        if (i > 12)
         {
-            //The Right rope is weak
+            i++;
             _left = RopeFactory.GetStrongRope();
-            _right = RopeFactory.GetWeakRope();
-            return true;
-        }else if(rndNum < 0)
-        {
-            //TheLeft rope is weak
-            _left = RopeFactory.GetWeakRope();
             _right = RopeFactory.GetStrongRope();
             return true;
         }
+        if (i < 12 && i > 25)
+        {
+            i++;
+            //Random Obstacles
+            int rndNum = Random.Range(-(GetInstance().rndLimit - 1), GetInstance().rndLimit);
 
+            if (rndNum > 0)
+            {
+                //The Right rope is weak
+                _left = RopeFactory.GetStrongRope();
+                _right = RopeFactory.GetWeakRope();
+                return true;
+            } else if (rndNum < 0)
+            {
+                //TheLeft rope is weak
+                _left = RopeFactory.GetWeakRope();
+                _right = RopeFactory.GetStrongRope();
+                return true;
+            }
+          }
+        
         //In case everything goes to hell
         _left = RopeFactory.GetStrongRope();
         _right = RopeFactory.GetStrongRope();
